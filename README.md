@@ -42,7 +42,7 @@ This is the most important part of your documentation — it shows your website 
 | **Link / Embed** |   [Animation.zip](https://github.com/user-attachments/files/30572104/Animation.zip)
 
      |
-| **Duration**     |        |
+| **Duration**     |   36 seconds    |
 
 **Your walkthrough should show:**
 
