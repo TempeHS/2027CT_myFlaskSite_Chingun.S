@@ -57,15 +57,18 @@ website you **delivered** against the **Statement of Intent** you wrote during
 planning. Be honest and use evidence — point to a page, a feature or a test.
 
 ### 3.1 Your Statement of Intent
+The main use of Fix Your Mindset is designed to keep track of your goals and manage your time so that you can do everything you need to for the day while getting your daily goals done. With this in mind it can ensure your wellbeing and safety to live a healthy life as with Fix your mindset it can help you to get up everyday wthout arguing and fighting yourself.
 
-<!-- Paste the Statement of Intent you wrote during planning so the reader can judge your site against it. -->
+The primary audience is for all individuals who plan to succeed and live the life they want. These people are the ones who are dedicated and self disciplined enough to strive and achieve their success. Only people that really want the life and success will achieve through our website. Fix your Mindset is designed to literally fix your mindset.
+
+Now if you where a smart individual you would sign up today. Our services have been made specifically for the best athletes just like you so what are you waiting for  don't you want to go try out our latest feature? So come on now let's get on Fix Your Mindset and become the person and athlete and have the life you really want.
 
 ### 3.2 What You Delivered
 
 | Page    | Route      | What it delivers |
 | ------- | ---------- | ---------------- |
-| Home    | `/`        |                  |
-| Contact | `/contact` |                  |
+| Home    | `/`        |A home page with  with a Bootstrap navbar a hero carousel three photos and three cards for the features|                  
+| Contact | `/contact` |A contact page with Google Maps embedded into it so that you can see where we are located and a section to send us an email for any questions you may have|
 
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
@@ -73,7 +76,8 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 > delivered site meets it**. Where did you meet your intent? Where did you fall
 > short, and why? Support every judgement with evidence from your site.
 
-<!-- Write 2–3 paragraphs. -->
+My home page is a vibrant scene with a woring hero carousel that shows three photos that are related to the theme of my website. It also includes a Bootstrap navbar which helps it look more professional. The home page also displays three cards for my features, since I decided not to fully add my features only my contact form is available to be pressed and take you to my contact form. My contact form displays Google Maps fully functional with where we are located but really its just in the middle of Martin Place/Town Hall. The Contact Form also features a fully functional section to ask any questions by sending an email. It can detect if anything is invalid such as missing space and if no "@" and "gmail.com" is there.
+
 
 ### 3.4 Overall Effectiveness (1–2 paragraphs)
 
@@ -81,7 +85,7 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 > achieving its purpose for its target audience? Weigh what works against what
 > falls short, and state what you would improve to better meet your intent.
 
-<!-- Write 1–2 paragraphs. -->
+My website overall is quite decent in my opinion as it has a good hero carousell making it visually appealing to visitors. Also the Contact Form works fully so it also makes it better. However my other two features the (calendar and gym workouts) have not been added because of my time management. If I could improve it, it would be to add the features so my website would become an actual fully funtional website, but because unfortunatly I haven't added the features making the website fully funtional is not possible.
 
 ---
 
@@ -95,7 +99,7 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 | ------------- | ---------------- | ------- | ---------------------- |
 | Bootstrap     | Bootstrap team   | MIT     | Layout and components  |
 | Flask         | Pallets Projects | BSD     | Web server and routing |
-|               |                  |         |                        |
+| Photos        | Unsplash         | Unsplash License| Photos for the Hero Carousel|
 |               |                  |         |                        |
 
 ---
