@@ -2,12 +2,12 @@
 
 | Field                          | Detail |
 | ------------------------------ | ------ |
-| **Website Title**              |        |
-| **Student Name(s)**            |        |
-| **Class / Course**             |        |
-| **Repository**                 |        |
-| **Live Site / Codespaces URL** |        |
-| **Date**                       |        |
+| **Website Title**              | FixYourMindset       |
+| **Student Name(s)**            | Chingun Sodnombaljir       |
+| **Class / Course**             | Computer Technology       |
+| **Repository**                 | https://github.com/TempeHS/2027CT_myFlaskSite_Chingun.S      |
+| **Live Site / Codespaces URL** |  https://upgraded-space-telegram-v64r9qv55jj9hxg6j.github.dev/      |
+| **Date**                       |  31/07/26      |
 
 > Your website is the main piece of work. This README is short on purpose — it
 > points a reader to your **2-minute walkthrough** and gives an honest
@@ -39,7 +39,9 @@ This is the most important part of your documentation — it shows your website 
 
 | Field            | Detail |
 | ---------------- | ------ |
-| **Link / Embed** |        |
+| **Link / Embed** |   [Animation.zip](https://github.com/user-attachments/files/30572104/Animation.zip)
+
+     |
 | **Duration**     |        |
 
 **Your walkthrough should show:**
